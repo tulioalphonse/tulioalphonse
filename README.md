@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img height="300px" width="75%" src="https://c.tenor.com/NUvBmspwrVYAAAAC/alphonse-elric-alphonse.gif" />
+ <img width="75%" src="https://c.tenor.com/NUvBmspwrVYAAAAC/alphonse-elric-alphonse.gif" />
 </p>
 
 ## Hi, I'm Tulio Alphonse! 😄
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left">
  <a href="https://muybuenostudio.itch.io/byox">
- <img height="20%" width="20%" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/byox_widget.png" />
+ <img width="20%" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/byox_widget.png" />
  </a>
 </p>
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <img height="300px" width="75%" src="https://c.tenor.com/nQlBg3MHLL4AAAAC/fma-fullmetal-alchemist.gif" />
+ <img width="75%" src="https://c.tenor.com/nQlBg3MHLL4AAAAC/fma-fullmetal-alchemist.gif" />
 </p>

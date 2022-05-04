@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Games
 
-<p align="center">
+<p align="left">
  <a href="https://muybuenostudio.itch.io/byox">
  <img height="20%" width="20%" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/byox_widget.png" />
  </a>

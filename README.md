@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Tulio Alphonse! 😄
 
-💻 Software Engineering <br>
+💻 Software Engineer <br>
 🏡 Brazilian. <br>
 
 ## Find me 🌎
 
 💼 https://www.linkedin.com/in/tulioalphonse/ <br>
+🎮 https://itch.io/profile/tulioalphonse <br>
 
 
 <p align="center">

@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 ## Find me 🌎
 <a href="https://www.linkedin.com/in/tulioalphonse/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://itch.io/profile/tulioalphonse" target="_blank"><img alt="Itch" src="https://img.shields.io/badge/-itch.io-black?&style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
+
+Thanks for your visit!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tulioalphonse&label=Profile%20views&color=0e75b6&style=flat" alt="tulioalphonse" /> </p>
+Bye,
 <p align="center">
  <img width="75%" src="https://c.tenor.com/nQlBg3MHLL4AAAAC/fma-fullmetal-alchemist.gif" />
 </p>

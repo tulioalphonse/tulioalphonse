@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Find me 🌎
-<a href="https://www.linkedin.com/in/tulioalphonse/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://itch.io/profile/tulioalphonse" target="_blank"><img height="10%" width="10%" alt="Itch.io" src="https://static.itch.io/images/badge.svg" /></a>
-
+<a href="https://www.linkedin.com/in/tulioalphonse/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://itch.io/profile/tulioalphonse" target="_blank"><img alt="Itch" src="https://img.shields.io/badge/-itch.io-black?&style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
 <p align="center">
  <img width="75%" src="https://c.tenor.com/nQlBg3MHLL4AAAAC/fma-fullmetal-alchemist.gif" />

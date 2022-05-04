@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 💻 Software Engineer <br>
 🏡 Brazilian. <br>
 
-## Some Games 🎮
-
-<iframe frameborder="0" src="https://itch.io/embed/1281198?bg_color=000000&amp;fg_color=ffffff&amp;link_color=e10cff&amp;border_color=333333" width="208" height="167"><a href="https://muybuenostudio.itch.io/byox">Byox by Muy Bueno Studio, tulioalphonse, Pedrx</a></iframe>
-
 ## Find me 🌎
 
 💼 https://www.linkedin.com/in/tulioalphonse/ <br>

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left">
  <a href="https://muybuenostudio.itch.io/byox">
- <img width="20%" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/byox_widget.png" />
+ <img width="350" height="280" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/byox_widget.png" />
  </a>
 </p>
 

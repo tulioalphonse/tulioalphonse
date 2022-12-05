@@ -28,8 +28,6 @@ Here are some ideas to get you started:
  <a href="https://muybuenostudio.itch.io/byox">
  <img width="190" height="150" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/byox_widget.png" />
  </a>
-</p>
-<p align="left">
  <a href="https://muybuenostudio.itch.io/legend-of-brokkus-naryon">
  <img width="190" height="150" src="https://raw.githubusercontent.com/tulioalphonse/tulioalphonse/main/legedofbrokkusnaryon.png" />
  </a>
